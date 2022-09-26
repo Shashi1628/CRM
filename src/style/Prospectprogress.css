@@ -1,0 +1,42 @@
+body{
+    margin:0;
+}
+.outer{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+.outer_Inner{
+    max-width: 400%;
+    margin-top: 20px;
+    margin-left:20px;
+   
+}
+.outer_inner_row1{
+  
+    margin-top: 20px;
+    width: 386px;
+    height: 68px;
+}
+.outer_inner_row2{
+   
+}
+.outer_inner_row1 label{
+    margin-top: 20px;
+    margin-left:12px;
+    
+    font-size: 25px;
+}
+.outer_inner_row2 img{
+    margin-top: 30px;
+    margin-left:121px;
+    width: 167px;
+}
+.more{
+    margin-top: 25px;
+    margin-left:72px;
+    width: 36px;
+}
