@@ -7,15 +7,15 @@ export default function Login() {
     <>
     <div className='Progressbarouter'>
           <div className='Progressbarouter_inner'>
-          <div className='Progressbarouter_inner_row1'>
-          <label>Prospect Progress</label>
-          <AiOutlineMore className='Progressbarmore'/>
-           </div>
+                   <div className='Progressbarouter_inner_row1'>
+                   <label>Prospect Progress</label>
+                   <AiOutlineMore className='Progressbarmore'/>
+                   </div>
    
-           <div className='Progressbarouter_inner_row2'>
-           <img src={circle} ></img>
-           </div>
-           </div>
+                  <div className='Progressbarouter_inner_row2'>
+                  <img src={circle} ></img>
+                  </div>
+            </div>
     </div>
     </>
   );

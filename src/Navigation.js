@@ -11,6 +11,8 @@ import Doughnut from "./Doughnut.js"
 import Progressbar from "./Progressbar.js"
 import Profile1 from "./Profile1.js"
 import Profile from "./Profile.js"
+import ProspectListpage from "./ProspectListpage.js"
+import Filterbar from "./components/Filterbar";
 
 
 export default function Navigation() {
@@ -30,6 +32,8 @@ export default function Navigation() {
           <Route path="/Progressbar" element={<Progressbar/>}></Route>
           <Route path="/Profile1" element={<Profile1/>}></Route>
           <Route path="/Profile" element={<Profile/>}></Route>
+          <Route path="/ProspectListpage" element={<ProspectListpage/>}></Route>
+          <Route path="/Filterbar" element={<Filterbar/>}></Route>
         
         </Routes>
       </BrowserRouter>

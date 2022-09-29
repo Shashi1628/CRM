@@ -7,13 +7,15 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    
   
 }
 .Progressbarouter_inner{
     max-width: 400%;
     margin-top: 0px;
     padding-left:20px;
-    background-color: white;
+    background-color: #fafbfc;
+    border-radius: 5px;
    
 }
 .Progressbarouter_inner_row1{

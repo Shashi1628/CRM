@@ -13,10 +13,12 @@
 .Profile_name{
     font-size: 20px;
     margin: 3px 86px;
+    color: #C3CAD9;
 }
 .Profile_id{
     font-size: 15px;
     margin: 18px 123px;
+    color: #C3CAD9;
 }
 .Profile_outer_row1 input{
        font-size: 20px;
@@ -24,6 +26,10 @@
     width: 1064px;
     height: 30px;
     padding: 8px 20px;
+     color: #C3CAD9;
+     border: 1px solid lightgray;
+     border-radius: 5px;
+     outline: none;
   
 }
 
@@ -47,7 +53,7 @@
     padding-top: 2px;
     padding-left: 2px;
     font-size: 25px;
-    
+    color: #C3CAD9;
 }
 .Profile_ln{
     margin-top: 0px;
@@ -55,6 +61,7 @@
     padding-top: 2px;
     padding-left: 2px;
     font-size: 25px;
+    color: #C3CAD9;
     
 }
 
@@ -64,6 +71,7 @@
     padding-top: 2px;
     padding-left: 2px;
     font-size: 25px;
+    color: #C3CAD9;
     
 }
 .Profile_dob{
@@ -72,6 +80,7 @@
     padding-top: 2px;
     padding-left: 2px;
     font-size: 25px;
+    color: #C3CAD9;
 
     
 }
@@ -119,6 +128,7 @@
 .Profileouter_row3_downarrow{
     margin-top: 7px;
     margin-left: -26px;
+    color: #C3CAD9;
 }
 
 
@@ -142,7 +152,7 @@
     padding-top: 2px;
     padding-left: 2px;
     font-size: 25px;
-    
+    color: #C3CAD9;
 }
 .Profile_b4{
     margin-top: 7px;
@@ -150,6 +160,7 @@
     padding-top: 2px;
     padding-left: 2px;
     font-size: 25px;
+    color: #C3CAD9;
 
 
 }
@@ -159,6 +170,7 @@
     padding-top: 2px;
     padding-left: 2px;
     font-size: 25px;
+    color: #C3CAD9;
 
 }
 .Profileouter_row5{
