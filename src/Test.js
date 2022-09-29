@@ -2,7 +2,7 @@ import "./style/style.css"
 import { useNavigate } from 'react-router-dom';
 export default function Test(){
    
-  }
+  
     return<>
         <div className="box1">
             <label>Heading1</label>

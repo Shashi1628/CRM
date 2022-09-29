@@ -1,7 +1,7 @@
-.outer{
+/* .Profileouter{
     background-color:#FAFBFC;
 }
-.outer_column1{
+.Profileouter_column1{
     background-color:#FAFBFC;
 
     width: 310px;
@@ -10,7 +10,7 @@
    
    
 }
-.outer_column1 img{
+.Profileouter_column1 img{
    
     width: 116px;
     margin-left: 100px;
@@ -19,7 +19,7 @@
 
 
 }
-.name{
+.Profile_name{
     
     
  
@@ -30,21 +30,15 @@
 
 
 }
-.id{
+.Profile_id{
     
     width: 84px;
     margin-left: 121px;
     margin-top: 28px;
     font-size: 19px;
 }
-.outer_row1{
-    
 
-    
-   
-    
-}
-.outer_row1 input{
+.Profileouter_row1 input{
 margin-top: 55px;
 margin-left: 50px;
 width: 990px;
@@ -52,37 +46,37 @@ height: 35px;
 fontsixe: 20px;
 font-size: 24px;
 }
-.more1{
+.Profile_more1{
     
 
     margin-left: -25px;
 }
-.outer_row2{
+.Profileouter_row2{
 
     display: flex;
     flex-direction: row; 
 }
-.f{
+.Profile_f{
     margin-top: 31px;
     margin-left: 54px;
     font-size: 21px
 }
-.l{
+.Profile_l{
     margin-top: 31px;
     margin-left: 170px;
     font-size: 21px;
 }
-.e{
+.Profile_e{
     margin-top: 31px;
     margin-left: 167px;
     font-size: 22px;
 }
-.d{
+.Profile_d{
     margin-top: 33px;
     margin-left: 206px;
     font-size: 21px;
 }
-.b1{
+.Profile_b1{
     width: 210px;
     height: 31px;
     border: none;
@@ -93,7 +87,7 @@ font-size: 24px;
     border-radius: 4px;
     box-sizing: border-box;
 }
-.b2{
+.Profile_b2{
     width: 210px;
     height: 31px;
     border: none;
@@ -104,7 +98,7 @@ font-size: 24px;
     border-radius: 4px;
     box-sizing: border-box;
 }
-.b3{
+.Profile_b3{
     width: 210px;
     height: 31px;
     border: none;
@@ -115,48 +109,44 @@ font-size: 24px;
     border-radius: 4px;
     box-sizing: border-box;
 }
-.b4{
+.Profile_b4{
     width: 210px;
     height: 31px;
     border: none;
     border-radius: 4px;
     margin-top: 20px;
-    margin-left: 185px;
+    margin-left: 62px;
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
 }
-.outer_row3{
-    
-}
-.outer_row4{
+
+.Profileouter_row5{
      
     display:flex ;
     flex-direction: row;
-    background-color: black;
+    background-color:white;
 }
-.a4{
+.Profile_a5{
     margin: 15px 0px 0px 59px;
     font-size: 20px;
-    background-color: blue;
+    background-color: white;
 }
-.b4{
+.Profile_b5{
     margin: 15px 0px 0px 59px;
     font-size: 20px;
-    background-color: aqua;
+    background-color: white;
 }
-.c4{
+.Profile_c5{
     margin: 15px 0px 0px 59px;
     font-size: 20px;
-    background-color: brown;
+    background-color:white;
 }
-.v{
+.Profile_v{
     margin-left: -27px;
 }
-.outer_row5{
-   
-}
-.a5{
+
+.Profile_a5{
     width: 215px;
     height: 26px;
     border: none;
@@ -167,7 +157,7 @@ font-size: 24px;
     border-radius: 4px;
     box-sizing: border-box;
 }
-.b5{
+.Profile_b5{
     width: 215px;
     height: 26px;
     border: none;
@@ -179,7 +169,7 @@ font-size: 24px;
     box-sizing: border-box;
     
 }
-.c5{
+.Profile_c5{
     width: 217px;
     height: 28px;
     border: none;
@@ -192,6 +182,15 @@ font-size: 24px;
     box-sizing: border-box;
     
 }
-.outer_row1{
+.Profile_a4{
+    width: 210px;
+    height: 31px;
+    border: none;
+    border-radius: 4px;
+    margin-top: 20px;
+    margin-left: 62px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
 
-}
+} */
