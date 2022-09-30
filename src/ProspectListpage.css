@@ -10,14 +10,17 @@
 .ProspectListpage_container{
 
     margin-left: 252px;
-    margin-top: -1000px;
+    margin-top: -1100px;
     margin-right: 208px;
   
 
 }
 .ProspectListpage_Filterbar{
-
+    margin-right: 20px;
+    margin-left: 20px;
 }
+
+
 .ProspectListpage_Mainlist{
 
 }

@@ -6,8 +6,8 @@ export default function Mainlist() {
   return (
     <>
       <div>
-        <div className="box"></div>
-        <div className="header">
+        {/* <div className="box"></div> */}
+        {/* <div className="header">
           <div className="row1">
             <ul>
               <li>FirstName</li>
@@ -19,7 +19,7 @@ export default function Mainlist() {
               <li>Owner</li>
             </ul>
           </div>
-        </div>
+        </div> */}
         <div className="Innerbox">
           <div className="list">
             <div className="list_row_top">

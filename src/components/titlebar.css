@@ -6,10 +6,11 @@ body{
     padding: 15px 30px;
     display: flex;
     justify-content: space-between;
+    box-shadow: 1px 1px 1px 1px lightgray;
 }
 .titlebar_bagSquare{
     background-color: white;
-    width: 10%;
+    width: 16%;
     padding: 4px;
     display: flex;
     justify-content: center;
@@ -28,7 +29,7 @@ body{
     color: #7C8AA5;
 }
 .titlebar_top_col2{
-    width: 25%;
+    width: 20%;
     display: flex;
     justify-content: space-around;
 }
@@ -43,10 +44,10 @@ body{
 }
 .titlebar_top_col22{
     background-color: #8833FF;
-    width: 26%;
+    width: 53%;
     display: flex;
     align-items: center;
-    padding: 7px 30px;
+    padding: 10px 30px;
     border-radius: 20px;
 }
 .titlebar_top_col21 label,
@@ -65,4 +66,23 @@ body{
 .titlebar_downloadIcon{
     color: rgb(113, 183, 183);
     font-weight: 100;
+}
+.titlebar_bagIcon_Products{
+    margin-left: 38px;
+    margin-right: 20px;
+    font-size: 20px;
+
+}
+.titlebar_bagIcon_Active{
+    margin-left: 215px;
+    margin-right: 20px;
+    color: #8833FF;
+}
+.titlebar_bagIcon_Draft{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.titlebar_bagIcon_Assembly{
+    margin-left: 20px;
+    margin-right: 20px;
 }
