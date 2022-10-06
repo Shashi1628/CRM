@@ -107,6 +107,7 @@ body{
     flex-direction: row;
     justify-content: space-around;
     margin-right: 200px;
+    position: absolute;
 }
 .Topbar_content_cola{
     background-color: white;
